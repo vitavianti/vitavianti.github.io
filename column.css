@@ -1,0 +1,42 @@
+#header {
+    padding: 40px;
+    background-image: 
+    url(https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAewAAAAJGNkZjUzMWM2LTBjNGItNDE5OS1hY2Q0LTY4YWViYmVkY2M1Ng.jpg);    
+    background-size: cover;
+    
+    text-align: center;
+    font-family: sans-serif; color: whitesmoke; font-size: 40px;
+}
+
+#kiri {
+    width: 250px;
+    background-color: lightsteelblue;
+    float: left;
+    text-align: left;
+    color: blue;
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+#tengah {
+    width: 780px;
+    background-color: whitesmoke;
+    float: left;
+    text-align: left;
+    color: black;
+    font-family: sans-serif;
+    padding: 5px;
+}
+
+#footer {
+    border: 1px solid #000;
+    background-color: whitesmoke;
+    color: black;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+    font-family: sans-serif 
+        
+     
+}
+
